@@ -34,3 +34,5 @@ El repositorio está dividido en carpetas; una por ejercicio, cada carpeta conti
 **Mejora el código de modo que si encuentra alguna línea con formato no adecuado la descarte y siga trabajando con la línea siguiente.**
 
 ### Ejercicio 1.2
+
+**Redefine el mapper y el reducer de modo que devuelvan un archivo con el total de ventas por categoría.**
