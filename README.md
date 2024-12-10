@@ -36,3 +36,11 @@ El repositorio está dividido en carpetas; una por ejercicio, cada carpeta conti
 ### Ejercicio 1.2
 
 **Redefine el mapper y el reducer de modo que devuelvan un archivo con el total de ventas por categoría.**
+
+### Ejercicio 1.3
+
+**Redefine el mapper y el reducer de modo que se obtenga la venta más alta para cada tipo de pago de las registradas en todo el archivo.**
+
+**Consulta el resultado: ¿a qué puede deberse?**
+
+Al ver los resultados, se ve que todos los valores son iguales. Con esto se puede deducir que; al generarse los datos originales, se puso un tope al coste de venta.
