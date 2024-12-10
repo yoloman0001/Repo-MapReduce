@@ -48,3 +48,7 @@ Al ver los resultados, se ve que todos los valores son iguales. Con esto se pued
 ### Ejercicio 1.4
 
 **Modifica el ejercicio anterior para que el resultado de la ejecución sea el máximo absoluto de todas las ventas registradas.**
+
+### Ejercicio 1.5
+
+**Redefine el mapper y el reducer de modo que se obtenga el total de ventas.**
