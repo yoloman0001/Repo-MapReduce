@@ -44,3 +44,7 @@ El repositorio está dividido en carpetas; una por ejercicio, cada carpeta conti
 **Consulta el resultado: ¿a qué puede deberse?**
 
 Al ver los resultados, se ve que todos los valores son iguales. Con esto se puede deducir que; al generarse los datos originales, se puso un tope al coste de venta.
+
+### Ejercicio 1.4
+
+**Modifica el ejercicio anterior para que el resultado de la ejecución sea el máximo absoluto de todas las ventas registradas.**
